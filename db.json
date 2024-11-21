@@ -1,0 +1,43 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "description": "Chanel Maya Banks",
+
+      "image": "./src/assets/imag/to1.webp",
+      "alt": "image-1"
+    },
+    {
+      "id": 2,
+      "description": "Rosie Perez",
+
+      "image": "./src/assets/imag/to2.webp",
+      "alt": "image-2"
+    },
+    {
+      "id": 3,
+      "description": "Cristin Milioti",
+      "image": "./src/assets/imag/to3.webp",
+      "alt": "image-3"
+    },
+    {
+      "id": 4,
+      "description": "Tony Todd",
+      "image": "./src/assets/imag/to4.webp",
+      "alt": "image-4"
+    },
+    {
+      "id": 5,
+      "description": "Margaret Qualley",
+      "image": "./src/assets/imag/to5.webp",
+      "alt": "image-5"
+    },
+    {
+      "id": 6,
+      "description": "Kelsey Asbille",
+
+      "image": "./src/assets/imag/to6.webp",
+      "alt": "image-6"
+    }
+  ]
+}
